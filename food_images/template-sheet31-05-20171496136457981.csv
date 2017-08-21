@@ -1,0 +1,1011 @@
+Date,City,Session,Outlet,Restaurant,ItemName,Quantity,MasterID
+31-05-2017,BN,BreakFast,HUI,Vasudev Adigas,2 Idly Vada Combo,5,1344
+31-05-2017,BN,BreakFast,HUI,Vasudev Adigas,Pongal & Vada,5,1348
+31-05-2017,BN,BreakFast,HUI,Vasudev Adigas,Mini Onion Dosa combo,2,1354
+31-05-2017,BN,BreakFast,ANZ,Vasudev Adigas,2 Idly Vada Combo,6,1344
+31-05-2017,BN,BreakFast,ANZ,Vasudev Adigas,Pongal & Vada,9,1348
+31-05-2017,BN,BreakFast,ANZ,Vasudev Adigas,Mini Onion Dosa combo,6,1354
+31-05-2017,BN,BreakFast,ANZ,Vasudev Adigas,Thatte Idly with Vada,6,1351
+31-05-2017,BN,BreakFast,HUI,Vasudev Adigas,Thatte Idly with Vada,3,1351
+31-05-2017,BN,BreakFast,HUI,Vasudev Adigas,Poori Sagu ,3,1373
+31-05-2017,BN,BreakFast,ANZ,Vasudev Adigas,Poori Sagu ,7,1373
+31-05-2017,BN,BreakFast,HUI,Vasudev Adigas,3 Idly Sambar ,2,1343
+31-05-2017,BN,BreakFast,HUI,Vasudev Adigas,Mini Idly,5,1347
+31-05-2017,BN,BreakFast,HUI,Vasudev Adigas,Podi Idly,3,1349
+31-05-2017,BN,BreakFast,HUI,Vasudev Adigas,Set Dosa - 3 Pcs,2,1374
+31-05-2017,BN,BreakFast,MTP,Vasudev Adigas,2 Idly Vada Combo,1,1344
+31-05-2017,BN,BreakFast,MTP,Vasudev Adigas,Pongal & Vada,1,1348
+31-05-2017,BN,BreakFast,MTP,Vasudev Adigas,Mini Onion Dosa combo,2,1354
+31-05-2017,BN,BreakFast,MTP,Vasudev Adigas,Thatte Idly with Vada,1,1351
+31-05-2017,BN,BreakFast,MTP,Vasudev Adigas,Poori Sagu ,2,1373
+31-05-2017,BN,BreakFast,MTP,Vasudev Adigas,Mini Idly,1,1347
+31-05-2017,BN,BreakFast,MTP,Vasudev Adigas,Podi Idly,2,1349
+31-05-2017,BN,BreakFast,MTP,Vasudev Adigas,Set Dosa - 3 Pcs,2,1374
+31-05-2017,BN,BreakFast,ANZ,Vasudev Adigas,Mini Idly,9,1347
+31-05-2017,BN,BreakFast,ANZ,Vasudev Adigas,Podi Idly,9,1349
+31-05-2017,BN,BreakFast,ANZ,Vasudev Adigas,Set Dosa - 3 Pcs,8,1374
+31-05-2017,BN,BreakFast,ADS,Vasudev Adigas,2 Idly Vada Combo,1,1344
+31-05-2017,BN,BreakFast,ADS,Vasudev Adigas,Pongal & Vada,1,1348
+31-05-2017,BN,BreakFast,ADS,Vasudev Adigas,Mini Onion Dosa combo,1,1354
+31-05-2017,BN,BreakFast,ADS,Vasudev Adigas,Thatte Idly with Vada,1,1351
+31-05-2017,BN,BreakFast,ADS,Vasudev Adigas,Poori Sagu ,1,1373
+31-05-2017,BN,BreakFast,ADS,Vasudev Adigas,Mini Idly,1,1347
+31-05-2017,BN,BreakFast,ADS,Vasudev Adigas,Podi Idly,1,1349
+31-05-2017,BN,BreakFast,APT,Vasudev Adigas,2 Idly Vada Combo,2,1344
+31-05-2017,BN,BreakFast,APT,Vasudev Adigas,Pongal & Vada,3,1348
+31-05-2017,BN,BreakFast,APT,Vasudev Adigas,Mini Onion Dosa combo,2,1354
+31-05-2017,BN,BreakFast,APT,Vasudev Adigas,Thatte Idly with Vada,1,1351
+31-05-2017,BN,BreakFast,APT,Vasudev Adigas,Poori Sagu ,3,1373
+31-05-2017,BN,BreakFast,APT,Vasudev Adigas,Mini Idly,1,1347
+31-05-2017,BN,BreakFast,APT,Vasudev Adigas,Podi Idly,1,1349
+31-05-2017,BN,BreakFast,APT,Vasudev Adigas,Set Dosa - 3 Pcs,2,1374
+31-05-2017,BN,BreakFast,ADS,Vasudev Adigas,Set Dosa - 3 Pcs,1,1374
+31-05-2017,BN,Lunch,HUI,Chungwah,New Hot & Spicy Chicken & Chicken Hunan Fried Rice,3,1411
+31-05-2017,BN,Lunch,ADS,Chungwah,New Hot & Spicy Chicken & Chicken Hunan Fried Rice,4,1411
+31-05-2017,BN,Lunch,ANZ,Chungwah,New Hot & Spicy Chicken & Chicken Hunan Fried Rice,4,1411
+31-05-2017,BN,Lunch,APT,Chungwah,New Hot & Spicy Chicken & Chicken Hunan Fried Rice,4,1411
+31-05-2017,BN,Lunch,HUI,Chungwah,New Hunan Chicken & Chicken Noodles,2,1408
+31-05-2017,BN,Lunch,HUI,Vasudev Adigas,Lemon rice combo,4,1356
+31-05-2017,BN,Lunch,MTP,Vasudev Adigas,Puliogare combo,3,1357
+31-05-2017,BN,Lunch,ADS,Vasudev Adigas,Bisibele Bath Combo,3,1358
+31-05-2017,BN,Lunch,ADS,Vasudev Adigas,Puliogare combo,2,1357
+31-05-2017,BN,Lunch,APT,Vasudev Adigas,Bisibele Bath Combo,3,1358
+31-05-2017,BN,Lunch,APT,Anjappar Koramangala,SPL Plain Parota & Karaikudi Chicken Masala,5,1640
+31-05-2017,BN,Lunch,APT,Anjappar Koramangala,SPL Chicken Biryani & Chicken 65,6,1651
+31-05-2017,BN,Lunch,APT,Anjappar Koramangala,SPL Egg Biryani & Plain NV gravy,7,1652
+31-05-2017,BN,Lunch,APT,Anjappar Koramangala,SPL Chettinadu Chicken Biryani Combo,6,1653
+31-05-2017,BN,Lunch,ADS,Anjappar Koramangala,SPL Plain Parota & Karaikudi Chicken Masala,3,1640
+31-05-2017,BN,Lunch,ADS,Anjappar Koramangala,SPL Chicken Biryani & Chicken 65,3,1651
+31-05-2017,BN,Lunch,ADS,Anjappar Koramangala,SPL Egg Biryani & Plain NV gravy,5,1652
+31-05-2017,BN,Lunch,ANZ,Anjappar Koramangala,SPL Chettinadu Chicken Biryani Combo,4,1653
+31-05-2017,BN,Lunch,MTP,Anjappar Koramangala,SPL Chettinadu Chicken Biryani Combo,3,1653
+31-05-2017,BN,Lunch,ADS,Anjappar Koramangala,SPL Chettinadu Chicken Biryani Combo,3,1653
+31-05-2017,BN,Lunch,ADS,Nandhana,SPL New Nellore Mutton Biryani ,2,1645
+31-05-2017,BN,Lunch,ADS,Nandhana,SPL New Hyderabadi Biryani & Chili Chicken,4,1647
+31-05-2017,BN,Lunch,ADS,Nandhana,SPL New Natu Kodi Biryani & Chicken Pepper Roast,5,1649
+31-05-2017,BN,Lunch,MTP,Anjappar Koramangala,SPL Chappathi & Chettinad Veg Masala,2,1643
+31-05-2017,BN,Lunch,ANZ,Anjappar Koramangala,SPL Plain Parota & Karaikudi Chicken Masala,4,1640
+31-05-2017,BN,Lunch,ANZ,Anjappar Koramangala,SPL Chicken Biryani & Chicken 65,6,1651
+31-05-2017,BN,Lunch,ANZ,Anjappar Koramangala,SPL Egg Biryani & Plain NV gravy,4,1652
+31-05-2017,BN,Lunch,ANZ,Nandhana,SPL New Chapati & Veg Biryani,7,1650
+31-05-2017,BN,Lunch,ANZ,Nandhana,SPL New Hyderabadi Biryani & Chili Chicken,7,1647
+31-05-2017,BN,Lunch,ANZ,Nandhana,SPL New Natu Kodi Biryani & Chicken Pepper Roast,8,1649
+31-05-2017,BN,Lunch,APT,Nandhana,SPL New Nellore Mutton Biryani ,4,1645
+31-05-2017,BN,Lunch,APT,Nandhana,SPL New Chapati & Veg Biryani,5,1650
+31-05-2017,BN,Lunch,MTP,Anjappar Koramangala,SPL Plain Parota & Karaikudi Chicken Masala,3,1640
+31-05-2017,BN,Lunch,MTP,Anjappar Koramangala,SPL Chicken Biryani & Chicken 65,4,1651
+31-05-2017,BN,Lunch,MTP,Anjappar Koramangala,SPL Egg Biryani & Plain NV gravy,4,1652
+31-05-2017,BN,Lunch,MTP,Nandhana,SPL New Simple Andhra Meal Veg,4,1646
+31-05-2017,BN,Lunch,MTP,Nandhana,SPL New Hyderabadi Biryani & Chili Chicken,4,1647
+31-05-2017,BN,Lunch,MTP,Nandhana,SPL New Natu Kodi Biryani & Chicken Pepper Roast,4,1649
+31-05-2017,BN,Lunch,HUI,Anjappar Koramangala,SPL Plain Parota & Karaikudi Chicken Masala,3,1640
+31-05-2017,BN,Lunch,HUI,Anjappar Koramangala,SPL Chicken Biryani & Chicken 65,5,1651
+31-05-2017,BN,Lunch,HUI,Anjappar Koramangala,SPL Chettinadu Chicken Biryani Combo,3,1653
+31-05-2017,BN,Lunch,HUI,Anjappar Koramangala,SPL Egg Biryani & Plain NV gravy,4,1652
+31-05-2017,BN,Lunch,HUI,Nandhana,SPL New Nellore Mutton Biryani ,4,1645
+31-05-2017,BN,Lunch,HUI,Nandhana,SPL New Hyderabadi Biryani & Chili Chicken,4,1647
+31-05-2017,BN,Lunch,HUI,Nandhana,SPL New Natu Kodi Biryani & Chicken Pepper Roast,4,1649
+31-05-2017,BN,Lunch,APT,Nandhana,SPL New Hyderabadi Biryani & Chili Chicken,7,1647
+31-05-2017,BN,Lunch,APT,Nandhana,SPL New Natu Kodi Biryani & Chicken Pepper Roast,5,1649
+31-05-2017,BN,Lunch,APT,Vasudev Adigas,Puliogare combo,3,1357
+31-05-2017,BN,Lunch,APT,Vasudev Adigas,Rice Bath Combo,4,1397
+31-05-2017,BN,Lunch,HUI,Vasudev Adigas,Puliogare combo,4,1357
+31-05-2017,BN,Lunch,MTP,Vasudev Adigas,Rice Bath Combo,2,1397
+31-05-2017,BN,Lunch,MTP,Vasudev Adigas,Bisibele Bath Combo,2,1358
+31-05-2017,BN,Lunch,ANZ,Currylicious Restaurant,Thalassery Chicken Biryani & Pepper Chicken,8,897
+31-05-2017,BN,Lunch,MTP,Yumlok,Paneer Chatpati Thali,4,1535
+31-05-2017,BN,Lunch,MTP,Yumlok,Matar Panner Thali,4,1523
+31-05-2017,BN,Lunch,MTP,Yumlok,Bhindi Fry Phulka Combo,4,1518
+31-05-2017,BN,Lunch,MTP,Currylicious Restaurant,Thalassery Veg Biryani & Potato Fry,2,898
+31-05-2017,BN,Lunch,MTP,Currylicious Restaurant,Thalassery Chicken Biryani & Pepper Chicken,5,897
+31-05-2017,BN,Lunch,ANZ,Currylicious Restaurant,Thalassery Veg Biryani & Potato Fry,6,898
+31-05-2017,BN,Lunch,ADS,Vasudev Adigas,Veg Kothu Parota with veg kuruma,3,1361
+31-05-2017,BN,Lunch,ADS,Vasudev Adigas,Rice Bath Combo,3,1397
+31-05-2017,BN,Lunch,HUI,Vasudev Adigas,Rice Bath Combo,3,1397
+31-05-2017,BN,Lunch,HUI,Yumlok,Paneer Chatpati Thali,6,1535
+31-05-2017,BN,Lunch,HUI,Yumlok,Matar Panner Thali,5,1523
+31-05-2017,BN,Lunch,HUI,Yumlok,Baingan Thali,4,1514
+31-05-2017,BN,Lunch,HUI,Yumlok,Bhindi Fry Phulka Combo,5,1518
+31-05-2017,BN,Lunch,HUI,Vasudev Adigas,Bisibele Bath Combo,4,1358
+31-05-2017,BN,Lunch,ANZ,Vasudev Adigas,Rice Bath Combo,2,1397
+31-05-2017,BN,Lunch,ANZ,Vasudev Adigas,Puliogare combo,3,1357
+,,,,,,,
+31-05-2017,BN,Lunch,ANZ,Vasudev Adigas,Bisibele Bath Combo,3,1358
+31-05-2017,BN,Lunch,ADS,Delhi Highway Banglore,Paneer Butter masala combo,3,387
+31-05-2017,BN,Lunch,ADS,Delhi Highway Banglore,Chhole Kulche,4,421
+31-05-2017,BN,Lunch,APT,Delhi Highway Banglore,Paneer Butter masala combo,9,387
+31-05-2017,BN,Lunch,APT,Delhi Highway Banglore,Chhole Kulche,9,421
+31-05-2017,BN,Lunch,ANZ,Delhi Highway Banglore,Paneer Butter masala combo,5,387
+31-05-2017,BN,Lunch,ANZ,Delhi Highway Banglore,Chhole Kulche,4,421
+31-05-2017,BN,Lunch,ADS,Yumlok,Paneer Chatpati Thali,3,1535
+31-05-2017,BN,Lunch,ADS,Yumlok,Matar Panner Thali,4,1523
+31-05-2017,BN,Lunch,ADS,Delhi Highway Banglore,Paneer Butter masala combo,3,387
+31-05-2017,BN,Lunch,MTP,Currylicious Restaurant,Kerala Egg Roast & Malabar parata,3,1435
+31-05-2017,BN,Lunch,HUI,Vasudev Adigas,North Indian Meal,3,1371
+31-05-2017,BN,Lunch,ANZ,Yumlok,Matar Panner Thali,1,1523
+31-05-2017,BN,Lunch,ANZ,Yumlok,Paneer Chatpati Thali,1,1535
+31-05-2017,BN,Lunch,ANZ,Vasudev Adigas,North Indian Meal,3,1371
+31-05-2017,BN,Lunch,APT,Yumlok,Paneer Teekhi Thali,3,1526
+31-05-2017,BN,Lunch,APT,Yumlok,Baingan Phulka Combo,3,1512
+31-05-2017,BN,Lunch,APT,Vasudev Adigas,North Indian Meal,4,1371
+31-05-2017,BN,Lunch,ADS,Vasudev Adigas,North Indian Meal,3,1371
+31-05-2017,BN,Lunch,MTP,Chungwah,New Hunan Chicken & Chicken Noodles,3,1408
+31-05-2017,BN,Lunch,APT,Chungwah,New Hunan Chicken & Chicken Noodles,3,1408
+31-05-2017,BN,Dinner,ADS,Anjappar Koramangala,Egg Biryani & Plain NV gravy,2,384
+31-05-2017,BN,Dinner,ADS,Anjappar Koramangala,SPL Chettinadu Chicken Biryani Combo,1,1653
+31-05-2017,BN,Dinner,ADS,Anjappar Koramangala,SPL Plain Parota & Chettinad  Chicken Masala,1,1644
+31-05-2017,BN,Dinner,MTP,Anjappar Koramangala,SPL Chettinadu Chicken Biryani Combo,2,1653
+31-05-2017,BN,Dinner,MTP,Anjappar Koramangala,Egg Biryani & Plain NV gravy,2,384
+31-05-2017,BN,Dinner,MTP,Anjappar Koramangala,SPL Plain Parota & Chettinad  Chicken Masala,1,1644
+31-05-2017,BN,Dinner,ADS,Vasudev Adigas,Rice Bath Combo,1,1397
+31-05-2017,BN,Dinner,MTP,Vasudev Adigas,Rice Bath Combo,1,1397
+31-05-2017,BN,Dinner,MTP,Nandhana,SPL New Nellore Chicken Biryani & Chikcen Kabab,3,1648
+31-05-2017,BN,Dinner,APT,Vasudev Adigas,Bisibele Bath Combo,1,1358
+31-05-2017,BN,Dinner,MTP,Vasudev Adigas,Bisibele Bath Combo,1,1358
+31-05-2017,BN,Dinner,APT,Nandhana,SPL New Hyderabadi Biryani & Chili Chicken,3,1647
+31-05-2017,BN,Dinner,MTP,Nandhana,SPL New Hyderabadi Biryani & Chili Chicken,2,1647
+31-05-2017,BN,Dinner,MTP,Nandhana,New Nellore Mutton Biryani & Lemon Chicken,1,1226
+31-05-2017,BN,Dinner,APT,Anjappar Koramangala,SPL Chettinadu Chicken Biryani Combo,2,1653
+31-05-2017,BN,Dinner,APT,Anjappar Koramangala,SPL Plain Parota & Chettinad  Chicken Masala,1,1644
+31-05-2017,BN,Dinner,APT,Vasudev Adigas,Rice Bath Combo,1,1397
+31-05-2017,BN,Dinner,ADS,Nandhana,New Simple Andhra Meal Veg,1,1223
+31-05-2017,BN,Dinner,ADS,Nandhana,SPL New Nellore Chicken Biryani & Chikcen Kabab,1,1648
+31-05-2017,BN,Dinner,APT,Nandhana,New Simple Andhra Meal Veg,1,1223
+31-05-2017,BN,Dinner,APT,Nandhana,SPL New Nellore Chicken Biryani & Chikcen Kabab,2,1648
+31-05-2017,BN,Dinner,APT,Vasudev Adigas,Set Dosa - 3 Pcs,1,1374
+31-05-2017,BN,Dinner,APT,Nandhana,New Nellore Mutton Biryani & Lemon Chicken,2,1226
+31-05-2017,BN,Dinner,MTP,Delhi Highway Banglore,Shahi Paneer Combo,2,410
+31-05-2017,BN,Dinner,MTP,Delhi Highway Banglore,Mix veg Paratha Combo ,1,402
+31-05-2017,BN,Dinner,MTP,Delhi Highway Banglore,Matar Paneer Combo,1,406
+31-05-2017,BN,Dinner,APT,Delhi Highway Banglore,Matar Paneer Combo,1,406
+31-05-2017,BN,Dinner,APT,Delhi Highway Banglore,Mix veg Paratha Combo ,1,402
+31-05-2017,BN,Dinner,APT,Delhi Highway Banglore,Shahi Paneer Combo,2,410
+31-05-2017,BN,Dinner,ADS,Delhi Highway Banglore,Shahi Paneer Combo,2,410
+31-05-2017,BN,Dinner,ADS,Delhi Highway Banglore,Mix veg Paratha Combo ,1,402
+31-05-2017,BN,Dinner,ADS,Delhi Highway Banglore,Matar Paneer Combo,1,406
+31-05-2017,BN,Dinner,MTP,Anjappar Koramangala,Veg Kothu Parota & Veg Kurma,2,369
+31-05-2017,BN,Dinner,MTP,Anjappar Koramangala,SPL Chicken Biryani & Chicken 65,3,1651
+31-05-2017,BN,Dinner,MTP,Vasudev Adigas,Set Dosa - 3 Pcs,2,1374
+31-05-2017,BN,Dinner,APT,Anjappar Koramangala,Egg Biryani & Plain NV gravy,3,384
+31-05-2017,BN,Dinner,ADS,Anjappar Koramangala,SPL Chicken Biryani & Chicken 65,2,1651
+31-05-2017,BN,Dinner,APT,Anjappar Koramangala,SPL Chicken Biryani & Chicken 65,2,1651
+31-05-2017,BN,Dinner,APT,Anjappar Koramangala,Veg Kothu Parota & Veg Kurma,1,369
+31-05-2017,BN,Dinner,ADS,Anjappar Koramangala,Veg Kothu Parota & Veg Kurma,1,369
+31-05-2017,BN,Dinner,MTP,Nandhana,New Simple Andhra Meal Veg,2,1223
+31-05-2017,BN,Dinner,APT,Vasudev Adigas,Mini Idly,1,1347
+31-05-2017,BN,Dinner,MTP,Vasudev Adigas,Mini Idly,1,1347
+31-05-2017,BN,Dinner,ADS,Vasudev Adigas,Mini Idly,1,1347
+31-05-2017,BN,BreakFast,BMR,Vasudev Adigas,Poori Sagu ,4,1373
+31-05-2017,BN,BreakFast,BMR,Vasudev Adigas,Set Dosa - 3 Pcs,3,1374
+31-05-2017,BN,BreakFast,BMR,Vasudev Adigas,Rava Idli Kesaribath Combo,1,1363
+31-05-2017,BN,BreakFast,BMR,Vasudev Adigas,Thatte Idly with Vada,1,1351
+31-05-2017,BN,BreakFast,BMR,Vasudev Adigas,Pongal,4,1378
+31-05-2017,BN,BreakFast,BMR,Vasudev Adigas,Mini Onion Dosa combo,2,1354
+31-05-2017,BN,Lunch,BMR,Vasudev Adigas,Simple veg meal,1,1359
+31-05-2017,BN,Lunch,BMR,Vasudev Adigas,Grilled Veg Sandwich,2,1375
+31-05-2017,BN,Lunch,BMR,Vasudev Adigas,Grilled Paneer Sandwich,2,1377
+31-05-2017,BN,Lunch,BMR,Vasudev Adigas,Rice Bath Combo,2,1397
+31-05-2017,BN,Lunch,BMR,Vasudev Adigas,Pav Bhaji with extra pav,2,1659
+31-05-2017,BN,Lunch,BMR,Vasudev Adigas,Poori Sagu and Rice Bath,1,1453
+31-05-2017,BN,Lunch,BMR,Vasudev Adigas,Puliogare combo,1,1357
+31-05-2017,BN,Lunch,BMR,Vasudev Adigas,Bisibele Bath Combo,2,1358
+31-05-2017,BN,Lunch,BMR,Anjappar Koramangala,Chicken Biryani & Chicken 65,3,360
+31-05-2017,BN,Lunch,BMR,Anjappar Koramangala,Egg Biryani & Plain NV gravy,5,1146
+31-05-2017,BN,Lunch,BMR,Anjappar Koramangala,Veg Kothu Parota & Veg Kurma,1,369
+31-05-2017,BN,Lunch,BMR,Anjappar Koramangala,Chicken Biryani Mega Meal,1,380
+31-05-2017,BN,Lunch,BMR,Anjappar Koramangala,Plain Parota & Karaikudi Chicken Masala,2,1143
+31-05-2017,BN,Lunch,BMR,Anjappar Koramangala,Chettinadu Chicken Biryani Combo,3,385
+31-05-2017,BN,Lunch,BMR,Nandhana,New Hyderabadi Biryani & Chili Chicken,1,1224
+31-05-2017,BN,Lunch,BMR,Nandhana,New Chapati & Veg Biryani,2,1402
+31-05-2017,BN,Lunch,BMR,Nandhana,New Nellore Chicken Biryani & Chikcen Kabab,1,1225
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Pav Bhaji,4,1654
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Samosa Masala,1,1657
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Cutlet Masala,1,1658
+31-05-2017,BN,Lunch,BMR,Nandhana,New Natu Kodi Biryani & Chicken Pepper Roast,1,1398
+31-05-2017,BN,Lunch,BMR,Nandhana,New Hyderabad Mutton Biryani & Chilli Chicken,1,1399
+31-05-2017,BN,Lunch2,BMR,Nandhana,New Hyderabadi Biryani & Chili Chicken,6,1224
+31-05-2017,BN,Lunch2,BMR,Nandhana,New Natu Kodi Biryani & Chicken Pepper Roast,7,1398
+31-05-2017,BN,Lunch2,BMR,Nandhana,New Nellore Chicken Biryani & Chikcen Kabab,7,1225
+31-05-2017,BN,Lunch2,BMR,Nandhana,New Chapati & Veg Biryani,4,1402
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Grilled Cheese Sandwich,2,1376
+31-05-2017,BN,Lunch2,BMR,Nandhana,New Chicken Masala & Chapati,6,1213
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Mini Onion Dosa combo,2,1354
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,3 Idly Sambar ,2,1343
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Rava Idli Kesaribath Combo,1,1363
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Thatte Idly with Vada,1,1351
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Mini Idly with Vada,2,1350
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Grilled Veg Sandwich,3,1375
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Grilled Paneer Sandwich,2,1377
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Set Dosa - 3 Pcs,3,1374
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Podi Idly,3,1349
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Pongal,2,1378
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Rice Bath Combo,2,1397
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Poori Sagu and Rice Bath,2,1453
+31-05-2017,BN,Lunch2,BMR,Vasudev Adigas,Veg Biryani Combo,3,1355
+31-05-2017,BN,Dinner,BMR,Vasudev Adigas,Poori Sagu and Rice Bath,2,1453
+31-05-2017,BN,Dinner,BMR,Vasudev Adigas,Grilled Veg Sandwich,3,1375
+31-05-2017,BN,Dinner,BMR,Vasudev Adigas,Grilled Paneer Sandwich,2,1377
+31-05-2017,BN,Dinner,BMR,Vasudev Adigas,Grilled Cheese Sandwich,2,1376
+31-05-2017,BN,Dinner,BMR,Vasudev Adigas,Set Dosa - 3 Pcs,2,1374
+31-05-2017,BN,Dinner,BMR,Vasudev Adigas,Puliogare combo,2,1357
+31-05-2017,BN,Dinner,BMR,Vasudev Adigas,Set Dosa and Bisibele Bath,2,1455
+31-05-2017,BN,Dinner,BMR,Vasudev Adigas,Simple veg meal,3,1359
+31-05-2017,BN,Dinner,BMR,Delhi Highway Banglore,Stuff paratha & Chole,1,388
+31-05-2017,BN,Dinner,BMR,Delhi Highway Banglore,Mix veg Paratha Combo,2,1133
+31-05-2017,BN,Dinner,BMR,Delhi Highway Banglore,Aloo Paratha Combo,2,1138
+31-05-2017,BN,Dinner,BMR,Anjappar Koramangala,Egg Biryani & Plain NV gravy,6,1146
+31-05-2017,BN,Dinner,BMR,Anjappar Koramangala,Chicken Biryani Mega Meal,3,380
+31-05-2017,BN,Dinner,BMR,Anjappar Koramangala,Veg Kothu Parota & Veg Kurma,3,369
+31-05-2017,BN,Dinner,BMR,Anjappar Koramangala,Plain Parota & Karaikudi Chicken Masala,2,1143
+31-05-2017,BN,Dinner,BMR,Anjappar Koramangala,Chicken Biryani & Chicken 65,3,360
+31-05-2017,BN,Dinner,BMR,Anjappar Koramangala,Chappathi & Chettinad Chicken Masala,1,364
+31-05-2017,BN,Dinner,BMR,Anjappar Koramangala,Chettinadu Chicken Biryani Combo,4,385
+31-05-2017,BN,Dinner,BMR,Nandhana,New Plain Biryani & Chicken 65,2,1211
+31-05-2017,BN,Dinner,BMR,Nandhana,New Nellore Chicken Biryani & Chikcen Kabab,2,1225
+31-05-2017,BN,Dinner,BMR,Nandhana,New Chapati & Veg Biryani,3,1402
+31-05-2017,BN,Dinner,BMR,Nandhana,New Nellore Mutton Biryani ,2,1214
+31-05-2017,BN,Dinner,BMR,Nandhana,New Natu Kodi Biryani & Chicken Pepper Roast,2,1398
+31-05-2017,BN,Dinner,BMR,Nandhana,New Hyderabadi Biryani & Chili Chicken,2,1224
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
+31-05-2017,BN,,,,,,
