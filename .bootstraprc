@@ -1,0 +1,43 @@
+export DEBUG=Foodbox-HQ:server
+#export PORT=8008
+export PORT=9056
+export NODE_ENV=development
+#export LOCAL_IP=atchayam.gofrugal.com
+export LOCAL_IP=192.168.0.87
+
+#DB credentials stuff
+#export DB_CONN=postgres://agniva:foodbox123@localhost/foodbox
+#export DB_CONN=postgres://atchayam:foodbox123@localhost/foodbox
+export DB_CONN=postgres://atchayam:foodbox123@localhost/foodbox2108
+
+#Bill folder
+export BILL_FOLDER=/home/atchayam/bills
+
+#Images folder
+export IMAGES_FOLDER=/home/atchayam/images
+
+#Firebase link
+export FIREBASE_CONN=https://atp-chat.firebaseio.com
+export FIREBASE_QUEUE=https://atp-chat.firebaseio.com/queue
+
+
+#export FIREBASE_CONN=https://atctesthq2.firebaseio.com
+#export FIREBASE_QUEUE=https://atctesthq2.firebaseio.com/queue
+
+
+#Email settings
+export SEND_PLANS_ADDRESS=rajasekaran.mathuram@gofrshly.com,mis@gofrshly.com
+export SEND_PO_ADDRESS=rajasekaran.mathuram@gofrshly.com
+export SEND_VFMP_ADDRESS=rajasekaran.mathuram@gofrshly.com
+
+#Mobile api settings
+export SERVER_PORT=9099
+export LISTEN_PORT=9091
+export FIREBASE_CONN_OUTLET=https://torrid-fire-8553.firebaseio.com
+
+export CSV_FILE_PATH=/home/atchayam/volumeplan
+
+#Incoming PO will show before 60 minutes of menu band start time
+export SHOWINCOMINGPO=60
+export OUTLETVERSION=2.5
+
